@@ -8,7 +8,23 @@ Currently, I am inactive on Scratch. But I am working on something else in a dif
 ## Random Facts
 The Stickman I created for my PFP a long time ago is agender. You can pick any gender you'd feel like.<br>
 My Scratch stuff may change but that doesn't mean I am back... or is it?<br>
-I only care about having fun. Not fame.<br>
-I support the LGBTQ+ community.<br>
+I only care about having fun. Not fame. If you want to follow, go ahead.<br>
+## Programming Languages I use...
+![Static Badge](https://img.shields.io/badge/-godot-blue?style=for-the-badge&logo=godot%20engine&logoColor=white&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/-Scratch%20(formerly%3F)-orange?style=for-the-badge&logo=scratch&logoColor=yellow&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5&labelColor=black&color=black)
+<br><br>
+> [!IMPORTANT]
+> I am done with Scratch. I might make some small projects there and there.
 
-### 🏳‍⚧ Dont let hate get in the way of love, let love get in the way of hate. 💖💜💙 🏳‍🌈
+<br>I also compose music for NES software. Not as much but just small tidbits.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+# Oh... You want something else?
+Here's all my socials:<br>
+[Scratch](https://scratch.mit.edu/users/Knightbot63/)<br>
+[Replit](https://replit.com/@Knightbot63/)<br>
+rad7cal is the dc<br>
+<br>
+More coming soon...

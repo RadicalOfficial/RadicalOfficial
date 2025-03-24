@@ -4,11 +4,6 @@ I am a 15 year old video game developer who is working on a lot of things.
 ## More Info
 Currently, I am inactive on Scratch. But I am working on something else in a different game engine (Godot)! The game is called **The Adventures of Caseoh** and it will release soon.
 <br><br>I am bisexual, he/him<br>I am working on another game in Godot called SimGarden which is a Garden Simulator similar to SimCity on the Super Nintendo. I might make a port for Scratch after.
-
-## Random Facts
-The Stickman I created for my PFP a long time ago is agender. You can pick any gender you'd feel like.<br>
-My Scratch stuff may change but that doesn't mean I am back... or is it?<br>
-I only care about having fun. Not fame. If you want to follow, go ahead.<br>
 ## Programming Languages I use...
 ![Static Badge](https://img.shields.io/badge/-godot-blue?style=for-the-badge&logo=godot%20engine&logoColor=white&labelColor=black&color=blue)
 ![Static Badge](https://img.shields.io/badge/-Scratch%20(formerly%3F)-orange?style=for-the-badge&logo=scratch&logoColor=yellow&labelColor=black&color=black)

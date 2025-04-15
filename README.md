@@ -20,8 +20,6 @@ Currently, I am inactive on Scratch. But I am working on something else in a dif
 # Oh... You want something else?
 Here's all my socials:<br>
 [Scratch](https://scratch.mit.edu/users/Knightbot63/)<br>
-[Replit](https://replit.com/@Knightbot63/)<br>
-rad7cal is the dc<br>
 <br>
 
 

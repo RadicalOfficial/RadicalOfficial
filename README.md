@@ -1,5 +1,5 @@
 ## Hello there!
-I am a 15 year old video game developer who is working on a lot of things.
+I am a 16 year old video game developer who is working on a lot of things.
 
 ## More Info
 Currently, I am inactive on Scratch. But I am working on something else in a different game engine (Godot)! The game is called **The Adventures of Caseoh** and it will release soon.
@@ -12,7 +12,7 @@ Currently, I am inactive on Scratch. But I am working on something else in a dif
 ![Static Badge](https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5&labelColor=black&color=black)
 <br><br>
 > [!IMPORTANT]
-> I am done with Scratch. I might make some small projects there and there.
+> I am done with Scratch. They can't seem to handle my website despite it being kid friendly. Try again, team. If only you had a heart for your community.
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

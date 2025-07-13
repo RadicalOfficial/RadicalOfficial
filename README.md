@@ -8,5 +8,5 @@ Itch: https://knightbot63.itch.io<br>
 > At the time of writing, I am still banned.
 # About
 16 year old who likes to code while doing a terrible job as a composer. He/him.<br>
-Just a guy who likes spooky and dark subjects.<br><br><br>I'm also the creator of The Adventures of Caseoh.<br><br>
+Just a guy who likes spooky and dark subjects.<br><br><br>I'm also the creator of The Adventures of Caseoh, The Demon Soul and other things.<br><br>
 <sub> PFP is from Erma.</sub>
